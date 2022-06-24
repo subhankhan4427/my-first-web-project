@@ -1,0 +1,14 @@
+div {
+  border: 2px solid rgb(85, 62, 85);
+}
+.bc {
+  outline-style: dashed;
+}
+@media screen and  (min-width: 680px)  {
+body {
+  background-color: rgb(234, 238, 238);
+}
+}            
+#grad {
+background: linear-gradient(rgb(179, 176, 166),rgb(165, 166, 241))
+}
